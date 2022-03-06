@@ -1,4 +1,4 @@
 # Day3_of_code
 
 * Basics of conditions 
-* Created 
+* Created BMI calculator
